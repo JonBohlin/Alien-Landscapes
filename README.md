@@ -13,7 +13,7 @@ It can be run by writting:
 
 java MultiThreadedBrownianLandscapes
 
-and a JAR file can be made as follow:
+and a JAR file can be made as follows:
 
 jar cfe AlienLandscapes.jar MultiThreadedBrownianLandscapes ./*.class
 
